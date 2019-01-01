@@ -1,3 +1,7 @@
+It is a online blog application with full authentication and file uploading features made using Laravel Framework.
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
